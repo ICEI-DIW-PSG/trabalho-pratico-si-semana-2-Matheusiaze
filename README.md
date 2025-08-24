@@ -3,9 +3,10 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Matheus Iaze Mazzoni
+- Matricula: 00900363
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+
+![Curriculo matheus](public/curriculo.png)
